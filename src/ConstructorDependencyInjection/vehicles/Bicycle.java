@@ -1,8 +1,6 @@
-package NoDependencyInjection.vehicles;
+package ConstructorDependencyInjection.vehicles;
 
-
-
-public class Bicycle {
+public class Bicycle implements Vehicle {
 
 	private final String myIntroduction ="I'm a bicycle";
 	

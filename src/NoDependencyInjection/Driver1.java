@@ -4,8 +4,9 @@ import NoDependencyInjection.CarShops.CarShop1;
 import NoDependencyInjection.CarShops.CarShop2;
 import NoDependencyInjection.CarShops.CarShop3;
 import NoDependencyInjection.vehicles.Bicycle;
-import NoDependencyInjection.vehicles.Car;
 import NoDependencyInjection.vehicles.Truck;
+import NoDependencyInjection.vehicles.Car;
+
 
 public class Driver1 {
 
